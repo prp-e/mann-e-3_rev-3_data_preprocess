@@ -180,3 +180,6 @@ poetry.toml
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+
+# just for not bombarding the repo with excel/csv files
+*.csv
