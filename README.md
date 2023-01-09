@@ -7,3 +7,7 @@ The main goal of this project is to bring the artistic ideas of people to life w
 ## What is this repository about?
 
 _TODO_
+
+## Resources used in this study/project
+
+_TODO_
