@@ -6,7 +6,7 @@ The main goal of this project is to bring the artistic ideas of people to life w
 
 ## What is this repository about?
 
-_TODO_
+This repository is a somehow failed attempt to gather data from images generated using [Midjourney AI](https://midjourney.com) for studying prompts and stuff. This project is failed not because the approach taken was wrong, it's been failed because the data came from old versions of the art generator and then, it didn't contribute too much to Mann-E project.
 
 ## Resources used in this study/project
 
