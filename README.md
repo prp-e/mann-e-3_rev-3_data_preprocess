@@ -10,4 +10,4 @@ This repository is a somehow failed attempt to gather data from images generated
 
 ## Resources used in this study/project
 
-_TODO_
+- [Midjourney 2022 - 250k dataset](https://www.kaggle.com/datasets/ldmtwo/midjourney-250k-csv)
